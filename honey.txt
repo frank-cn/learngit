@@ -4,3 +4,4 @@ test edit from local to the GitHub server.
 Some other words. Clear expression is very good for other people.
 OK. I accept your advice. I will follow it.
 test how it is if a new branch creates.
+don't know why frank-cn-patch-1 branch wasn't deleted.
